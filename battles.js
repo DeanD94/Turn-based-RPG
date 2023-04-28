@@ -20,9 +20,9 @@ let renderedSprites
 let queue
 
 
-//animate()
-initBattle()
-animateBattle()
+animate()
+//initBattle()
+//animateBattle()
 
 //hide the dialogue box when the player clicks
 document.querySelector('#attackDialogueBox').addEventListener('click', (e) => {
